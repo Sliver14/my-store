@@ -2,7 +2,7 @@ import productModel from '@/root_lib/models/productModel.js';
 import { NextResponse } from 'next/server';
 import connectDB from '@/root_lib/configs/mongoDB.js';
 
-export async function GET(request) {
+export async function GET() {
     await connectDB(); // Ensure DB connection is established
 
     try {
