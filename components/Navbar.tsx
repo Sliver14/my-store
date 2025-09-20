@@ -1,6 +1,6 @@
 
 'use client'
-import { useContext, useState } from "react";
+import { useContext, useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import { assets } from "@/lib_src/assets";
 import Link from "next/link";
@@ -9,8 +9,23 @@ import { ShopContext } from "@/context/ShopContext";
 
 const Navbar = () => {
   const [visible, setVisible] = useState(false);
+  const [showProfileOptions, setShowProfileOptions] = useState(false);
+  const profileRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const { setShowSearch, getCartCount, token, setToken, setCartItems, router } = useContext(ShopContext)!;
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (profileRef.current && !profileRef.current.contains(event.target as Node)) {
+        setShowProfileOptions(false);
+      }
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [profileRef, setShowProfileOptions]);
 
   const logout = () => {
     router.push("/login");
@@ -60,17 +75,23 @@ const Navbar = () => {
         />
 
         {/* Profile Dropdown */}
-        <div className="relative group">
+        <div className="relative" ref={profileRef}>
           <Image
-            onClick={() => (token ? null : router.push("/login"))}
+            onClick={() => {
+              if (token) {
+                setShowProfileOptions(!showProfileOptions);
+              } else {
+                router.push("/login");
+              }
+            }}
             src={assets.profile_icon}
             className="w-6 cursor-pointer hover:opacity-80"
             alt="profile"
             width={24}
             height={24}
           />
-          {token && (
-            <div className="absolute hidden group-hover:block right-0 mt-2 w-40 bg-white text-gray-700 rounded-lg shadow-lg py-3 px-4 transition-all duration-300">
+          {token && showProfileOptions && (
+            <div className="absolute block right-0 mt-2 w-40 bg-white text-gray-700 rounded-lg shadow-lg py-3 px-4 transition-all duration-300 z-50">
               <p className="cursor-pointer hover:text-black">My Profile</p>
               <p
                 onClick={() => router.push("/orders")}
