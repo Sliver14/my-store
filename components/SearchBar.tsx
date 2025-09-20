@@ -2,8 +2,8 @@
 'use client'
 import React, { useContext, useEffect, useState } from "react";
 import Image from "next/image";
-import { assets } from "../lib/assets";
-import { ShopContext } from "../context/ShopContext";
+import { assets } from "@/lib_src/assets";
+import { ShopContext } from "@/context/ShopContext";
 import { usePathname } from "next/navigation";
 
 const SearchBar = () => {

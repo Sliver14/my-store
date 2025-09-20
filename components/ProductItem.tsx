@@ -1,7 +1,7 @@
 'use client'
 import React,{useContext} from 'react'
 import Image from "next/image";
-import { ShopContext } from '../context/ShopContext';
+import { ShopContext } from '@/context/ShopContext';
 import Link from 'next/link';
 
 interface ProductItemProps {

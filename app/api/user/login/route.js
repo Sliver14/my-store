@@ -1,8 +1,8 @@
-import userModel from "@/root_lib/models/userModel.js";
+import userModel from "@/lib/models/userModel.js";
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import { NextResponse } from 'next/server';
-import connectDB from "@/root_lib/configs/mongoDB.js"; // Assuming this is needed for DB connection
+import connectDB from "@/lib/configs/mongoDB.js"; // Assuming this is needed for DB connection
 
 const createToken = (id) => {
     return jwt.sign({id}, process.env.JWT_SECRET);

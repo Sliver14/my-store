@@ -1,7 +1,7 @@
-import productModel from '@/root_lib/models/productModel.js';
+import productModel from '@/lib/models/productModel.js';
 import { NextResponse } from 'next/server';
-import connectDB from '@/root_lib/configs/mongoDB.js';
-import { adminAuth } from '@/root_lib/middlewares/adminAuth.js';
+import connectDB from '@/lib/configs/mongoDB.js';
+import { adminAuth } from '@/lib/middlewares/adminAuth.js';
 
 export async function POST(request) {
     await connectDB(); // Ensure DB connection is established

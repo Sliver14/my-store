@@ -1,9 +1,9 @@
 import { v2 as cloudinary } from 'cloudinary';
-import productModel from '@/root_lib/models/productModel.js';
+import productModel from '@/lib/models/productModel.js';
 import { NextResponse } from 'next/server';
-import connectDB from '@/root_lib/configs/mongoDB.js';
-import { adminAuth } from '@/root_lib/middlewares/adminAuth.js';
-import { parseMultipartForm, config } from '@/root_lib/utils/uploadHandler.js';
+import connectDB from '@/lib/configs/mongoDB.js';
+import { adminAuth } from '@/lib/middlewares/adminAuth.js';
+import { parseMultipartForm, config } from '@/lib/utils/uploadHandler.js';
 import fs from 'fs/promises'; // For deleting temporary files
 
 export { config }; // Export config to disable body parser

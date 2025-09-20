@@ -1,7 +1,7 @@
 'use client'
 import React from 'react';
 import Image from "next/image";
-import { assets } from '../lib/assets';
+import { assets } from '@/lib_src/assets';
 import { useRouter } from 'next/navigation';
 
 const Hero = () => {

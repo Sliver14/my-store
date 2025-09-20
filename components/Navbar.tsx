@@ -2,10 +2,10 @@
 'use client'
 import { useContext, useState } from "react";
 import Image from "next/image";
-import { assets } from "../lib/assets";
+import { assets } from "@/lib_src/assets";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { ShopContext } from "../context/ShopContext";
+import { ShopContext } from "@/context/ShopContext";
 
 const Navbar = () => {
   const [visible, setVisible] = useState(false);

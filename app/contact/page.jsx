@@ -1,5 +1,5 @@
 'use client'
-import { assets } from "@/lib/assets";
+import { assets } from "@/lib_src/assets";
 import NewsletterBox from "@/components/NewsletterBox";
 import Title from "@/components/Title";
 

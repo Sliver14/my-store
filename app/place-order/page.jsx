@@ -1,6 +1,6 @@
 'use client'
 import { useContext, useState } from "react"
-import { assets } from "@/lib/assets"
+import { assets } from "@/lib_src/assets"
 import CartTotal from "@/components/CartTotal"
 import Title from "@/components/Title"
 import { toast } from "react-toastify"

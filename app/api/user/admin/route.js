@@ -1,6 +1,6 @@
 import jwt from 'jsonwebtoken';
 import { NextResponse } from 'next/server';
-import connectDB from "@/root_lib/configs/mongoDB.js"; // Assuming this is needed for DB connection
+import connectDB from "@/lib/configs/mongoDB.js"; // Assuming this is needed for DB connection
 
 export async function POST(request) {
     await connectDB(); // Ensure DB connection is established

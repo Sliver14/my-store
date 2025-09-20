@@ -1,6 +1,6 @@
-import productModel from '@/root_lib/models/productModel.js';
+import productModel from '@/lib/models/productModel.js';
 import { NextResponse } from 'next/server';
-import connectDB from '@/root_lib/configs/mongoDB.js';
+import connectDB from '@/lib/configs/mongoDB.js';
 
 export async function GET() {
     await connectDB(); // Ensure DB connection is established
@@ -13,3 +13,4 @@ export async function GET() {
         return NextResponse.json({ success: false, message: error.message });
     }
 }
+

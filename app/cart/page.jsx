@@ -1,7 +1,7 @@
 'use client'
 import { useContext, useEffect, useState } from "react";
 import Title from "@/components/Title";
-import { assets } from "@/lib/assets";
+import { assets } from '@/lib_src/assets';
 import CartTotal from "@/components/CartTotal";
 import { ShopContext, Product } from "@/context/ShopContext";
 

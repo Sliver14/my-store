@@ -1,7 +1,7 @@
-import userModel from '@/root_lib/models/userModel.js';
+import userModel from '@/lib/models/userModel.js';
 import { NextResponse } from 'next/server';
-import connectDB from '@/root_lib/configs/mongoDB.js';
-import { authUser } from '@/root_lib/middlewares/authUser.js';
+import connectDB from '@/lib/configs/mongoDB.js';
+import { authUser } from '@/lib/middlewares/authUser.js';
 
 export async function POST(request) {
     await connectDB(); // Ensure DB connection is established

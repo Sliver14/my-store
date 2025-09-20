@@ -2,7 +2,7 @@
 'use client'
 import { useContext, useEffect, useState, useCallback } from 'react';
 import { ShopContext } from '@/context/ShopContext';
-import { assets } from '@/lib/assets';
+import { assets } from '@/lib_src/assets';
 import Title from '@/components/Title';
 import ProductItem from '@/components/ProductItem';
 import { Product } from '@/context/ShopContext';

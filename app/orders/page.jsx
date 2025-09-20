@@ -1,7 +1,7 @@
 
 'use client'
 import React, { useContext, useEffect, useState } from 'react';
-import { assets } from "@/lib/assets"
+import { assets } from "@/lib_src/assets"
 import { ShopContext } from "@/context/ShopContext"
 import axios from "axios";
 import { toast } from "react-toastify";
