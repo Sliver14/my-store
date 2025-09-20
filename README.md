@@ -27,9 +27,9 @@ This is a full-stack e-commerce website built using the MERN (MongoDB, Express, 
 - **Admin Panel**: Admins can manage products, view orders, and handle user accounts.
 - **Cloudinary**: For storing and serving product images.
 
-<!-- ## Live Links:
-- **Frontend**: [https://myshop-1-97f4.onrender.com/](https://myshop-1-97f4.onrender.com/)
-- **Admin Panel**: [https://myshop-admin.onrender.com](https://myshop-admin.onrender.com) -->
+ ## Live Links:
+- **Frontend**: [https://my-store-three-pearl.vercel.app/](https://my-store-three-pearl.vercel.app/)
+- **Admin Panel**: [https://my-store-three-pearl.vercel.app/admin](https://my-store-three-pearl.vercel.app/admin)
 
 
 ## Technology Stack:
