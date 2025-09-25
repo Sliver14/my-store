@@ -1,9 +1,13 @@
 'use client'
-import { useContext, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useParams } from "next/navigation";
 import Title from "@/components/Title";
 import ProductItem from "@/components/ProductItem";
+import React, { useContext } from 'react'
 import { ShopContext } from "@/context/ShopContext";
+import { assets } from "@/lib_src/assets";
+import RelatedProducts from "@/components/RelatedProducts";
+
 
 const Product = () => {
   const { productId } = useParams();
