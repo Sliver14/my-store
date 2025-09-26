@@ -12,6 +12,7 @@ async function loadLocalProducts() {
         if (Array.isArray(json)) return json;
         return [];
     } catch (e) {
+        console.error("Failed to load local products:", e);
         return [];
     }
 }

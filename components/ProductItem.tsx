@@ -1,52 +1,56 @@
-'use client'
-import React,{useContext, useEffect, useMemo, useState} from 'react'
-import Image from "next/image";
-import { ShopContext } from '@/context/ShopContext';
-import Link from 'next/link';
-import { motion } from 'framer-motion';
+"use client"
+import React, { useContext, useEffect, useState } from "react"
+import Image from "next/image"
+import { ShopContext } from "@/context/ShopContext"
+import Link from "next/link"
+import { motion } from "framer-motion"
 
 interface ProductItemProps {
-    id: string;
-    image: string[];
-    name: string;
-    price: number;
+  id: string
+  image: string[]
+  name: string
+  price: number
 }
 
-const ProductItem: React.FC<ProductItemProps> = ({id, image, name, price}) => {
+const ProductItem: React.FC<ProductItemProps> = ({ id, image, name, price }) => {
+  const context = useContext(ShopContext)
+  const { currency } = context ?? {}
 
-  const context = useContext(ShopContext);
-  if(!context) return null;
-  const {currency} = context;
+  const [wishlisted, setWishlisted] = useState(false)
 
-  const [wishlisted, setWishlisted] = useState(false);
-
-  // Simple localStorage-based wishlist
   useEffect(() => {
+    if (!id) return
     try {
-      const raw = localStorage.getItem('wishlist_ids');
-      const setIds = new Set<string>(raw ? JSON.parse(raw) : []);
-      setWishlisted(setIds.has(id));
+      const raw = localStorage.getItem("wishlist_ids")
+      const setIds = new Set<string>(raw ? JSON.parse(raw) : [])
+      setWishlisted(setIds.has(id))
     } catch {}
-  }, [id]);
+  }, [id])
 
   const toggleWishlist = (e: React.MouseEvent) => {
-    e.preventDefault();
-    e.stopPropagation();
+    e.preventDefault()
+    e.stopPropagation()
     try {
-      const raw = localStorage.getItem('wishlist_ids');
-      const setIds = new Set<string>(raw ? JSON.parse(raw) : []);
+      const raw = localStorage.getItem("wishlist_ids")
+      const setIds = new Set<string>(raw ? JSON.parse(raw) : [])
       if (setIds.has(id)) {
-        setIds.delete(id);
-        setWishlisted(false);
+        setIds.delete(id)
+        setWishlisted(false)
       } else {
-        setIds.add(id);
-        setWishlisted(true);
+        setIds.add(id)
+        setWishlisted(true)
       }
-      localStorage.setItem('wishlist_ids', JSON.stringify(Array.from(setIds)));
+      localStorage.setItem("wishlist_ids", JSON.stringify(Array.from(setIds)))
     } catch {}
-  };
+  }
 
-  const src = image && Array.isArray(image) && typeof image[0] === 'string' && image[0].length > 0 ? image[0] : null
+  const src =
+    image && Array.isArray(image) && typeof image[0] === "string" && image[0].length > 0
+      ? image[0]
+      : null
+
+  // 🚨 only check context here, after hooks
+  if (!context) return null
 
   return (
     <motion.div
