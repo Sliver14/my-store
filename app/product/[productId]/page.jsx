@@ -20,7 +20,12 @@ const Product = () => {
     const product = products.find((item) => item._id === productId);
     if (product) {
       setProductData(product);
-      setImage(product.image[0]);
+      // Handle empty image array
+      if (product.image && product.image.length > 0) {
+        setImage(product.image[0]);
+      } else {
+        setImage(""); // Set empty string for placeholder
+      }
     }
   }, [productId, products]);
 
@@ -31,22 +36,34 @@ const Product = () => {
         {/* Product Images */}
         <div className="flex-1 flex flex-col-reverse gap-4 sm:flex-row">
           <div className="flex sm:flex-col overflow-x-auto sm:overflow-y-scroll sm:w-[18%] w-full gap-3">
-            {productData.image.map((item, index) => (
-              <img
-                key={index}
-                src={item}
-                onClick={() => setImage(item)}
-                className="w-[24%] sm:w-full sm:mb-3 flex-shrink-0 cursor-pointer border-2 rounded-lg transition-transform hover:scale-105 hover:border-orange-500"
-                alt={`Product-${index}`}
-              />
-            ))}
+            {productData.image && productData.image.length > 0 ? (
+              productData.image.map((item, index) => (
+                <img
+                  key={index}
+                  src={item}
+                  onClick={() => setImage(item)}
+                  className="w-[24%] sm:w-full sm:mb-3 flex-shrink-0 cursor-pointer border-2 rounded-lg transition-transform hover:scale-105 hover:border-orange-500"
+                  alt={`Product-${index}`}
+                />
+              ))
+            ) : (
+              <div className="w-[24%] sm:w-full sm:mb-3 flex-shrink-0 bg-gradient-to-br from-gray-100 to-gray-200 rounded-lg border-2 border-gray-300 flex items-center justify-center text-gray-400 text-xs py-8">
+                No images
+              </div>
+            )}
           </div>
           <div className="w-full sm:w-[80%]">
-            <img
-              src={image}
-              className="w-full h-auto rounded-lg shadow-md"
-              alt="Selected Product"
-            />
+            {image ? (
+              <img
+                src={image}
+                className="w-full h-auto rounded-lg shadow-md"
+                alt="Selected Product"
+              />
+            ) : (
+              <div className="w-full h-96 bg-gradient-to-br from-gray-100 to-gray-200 rounded-lg shadow-md flex items-center justify-center text-gray-400 text-lg">
+                No image available
+              </div>
+            )}
           </div>
         </div>
 
@@ -72,19 +89,23 @@ const Product = () => {
           <div className="flex flex-col gap-4 my-8">
             <p className="font-medium text-lg">Select Size</p>
             <div className="flex gap-2">
-              {productData.sizes.map((item, index) => (
-                <button
-                  key={index}
-                  onClick={() => setSize(item)}
-                  className={`border py-2 px-4 rounded-md transition-all ${
-                    item === size
-                      ? "bg-blue-500 text-white border-blue-600"
-                      : "bg-gray-100 hover:bg-gray-200 border-gray-300"
-                  }`}
-                >
-                  {item}
-                </button>
-              ))}
+              {productData.sizes && productData.sizes.length > 0 ? (
+                productData.sizes.map((item, index) => (
+                  <button
+                    key={index}
+                    onClick={() => setSize(item)}
+                    className={`border py-2 px-4 rounded-md transition-all ${
+                      item === size
+                        ? "bg-blue-500 text-white border-blue-600"
+                        : "bg-gray-100 hover:bg-gray-200 border-gray-300"
+                    }`}
+                  >
+                    {item}
+                  </button>
+                ))
+              ) : (
+                <p className="text-gray-500">No sizes available</p>
+              )}
             </div>
           </div>
 

@@ -125,7 +125,10 @@ const ShopContextProvider = ({ children }: { children: ReactNode }) => {
 
     const getProductData = async () => {
         try {
-            const response = await axios.get(`${backendUrl}/api/product/list`);
+            // Use local API with pagination to avoid fetching the entire catalog at once
+            const response = await axios.get(`/api/product/list`, {
+                params: { limit: 30, sort: 'newest' }
+            });
             if (response.data.success) {
                 setProductList(response.data.products);
             } else {

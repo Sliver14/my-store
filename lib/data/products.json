@@ -1,0 +1,2525 @@
+[
+  {
+    "_id": "seed_1",
+    "name": "KIDS Classic Shorts",
+    "description": "KIDS Classic Shorts made with quality materials.",
+    "price": 142,
+    "image": [
+      "https://picsum.photos/seed/842d_10/400/500",
+      "https://picsum.photos/seed/763d_11/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1758675267955
+  },
+  {
+    "_id": "seed_2",
+    "name": "WOMEN Urban Hoodie",
+    "description": "WOMEN Urban Hoodie made with quality materials.",
+    "price": 46,
+    "image": [
+      "https://picsum.photos/seed/769d_20/400/500",
+      "https://picsum.photos/seed/302d_21/400/500",
+      "https://picsum.photos/seed/746d_22/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1751244867955
+  },
+  {
+    "_id": "seed_3",
+    "name": "MEN Essential Joggers",
+    "description": "MEN Essential Joggers made with quality materials.",
+    "price": 119,
+    "image": [
+      "https://picsum.photos/seed/371d_30/400/500",
+      "https://picsum.photos/seed/570d_31/400/500",
+      "https://picsum.photos/seed/673d_32/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1758848067955
+  },
+  {
+    "_id": "seed_4",
+    "name": "WOMEN Premium T-Shirt",
+    "description": "WOMEN Premium T-Shirt made with quality materials.",
+    "price": 124,
+    "image": [
+      "https://picsum.photos/seed/657d_40/400/500",
+      "https://picsum.photos/seed/23d_41/400/500",
+      "https://picsum.photos/seed/915d_42/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1745456067955
+  },
+  {
+    "_id": "seed_5",
+    "name": "MEN Essential Cardigan",
+    "description": "MEN Essential Cardigan made with quality materials.",
+    "price": 74,
+    "image": [
+      "https://picsum.photos/seed/954d_50/400/500",
+      "https://picsum.photos/seed/186d_51/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1743814467955
+  },
+  {
+    "_id": "seed_6",
+    "name": "KIDS Premium Puffer",
+    "description": "KIDS Premium Puffer made with quality materials.",
+    "price": 29,
+    "image": [
+      "https://picsum.photos/seed/240d_60/400/500",
+      "https://picsum.photos/seed/855d_61/400/500",
+      "https://picsum.photos/seed/979d_62/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1746406467955
+  },
+  {
+    "_id": "seed_7",
+    "name": "KIDS Essential Cardigan",
+    "description": "KIDS Essential Cardigan made with quality materials.",
+    "price": 62,
+    "image": [
+      "https://picsum.photos/seed/602d_70/400/500",
+      "https://picsum.photos/seed/695d_71/400/500",
+      "https://picsum.photos/seed/21d_72/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1744246467955
+  },
+  {
+    "_id": "seed_8",
+    "name": "WOMEN Cozy Shorts",
+    "description": "WOMEN Cozy Shorts made with quality materials.",
+    "price": 134,
+    "image": [
+      "https://picsum.photos/seed/566d_80/400/500",
+      "https://picsum.photos/seed/227d_81/400/500",
+      "https://picsum.photos/seed/111d_82/400/500",
+      "https://picsum.photos/seed/863d_83/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1756947267955
+  },
+  {
+    "_id": "seed_9",
+    "name": "WOMEN Cozy Sweatshirt",
+    "description": "WOMEN Cozy Sweatshirt made with quality materials.",
+    "price": 64,
+    "image": [
+      "https://picsum.photos/seed/597d_90/400/500",
+      "https://picsum.photos/seed/256d_91/400/500",
+      "https://picsum.photos/seed/589d_92/400/500",
+      "https://picsum.photos/seed/795d_93/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1748652867955
+  },
+  {
+    "_id": "seed_10",
+    "name": "MEN Sport Hoodie",
+    "description": "MEN Sport Hoodie made with quality materials.",
+    "price": 52,
+    "image": [
+      "https://picsum.photos/seed/925_100/400/500",
+      "https://picsum.photos/seed/928_101/400/500",
+      "https://picsum.photos/seed/72_102/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1748220867955
+  },
+  {
+    "_id": "seed_11",
+    "name": "MEN Premium Hoodie",
+    "description": "MEN Premium Hoodie made with quality materials.",
+    "price": 92,
+    "image": [
+      "https://picsum.photos/seed/799_110/400/500",
+      "https://picsum.photos/seed/184_111/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1746060867955
+  },
+  {
+    "_id": "seed_12",
+    "name": "MEN Premium Shorts",
+    "description": "MEN Premium Shorts made with quality materials.",
+    "price": 19,
+    "image": [
+      "https://picsum.photos/seed/469_120/400/500",
+      "https://picsum.photos/seed/294_121/400/500",
+      "https://picsum.photos/seed/878_122/400/500",
+      "https://picsum.photos/seed/8_123/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1748825667955
+  },
+  {
+    "_id": "seed_13",
+    "name": "MEN Slim Puffer",
+    "description": "MEN Slim Puffer made with quality materials.",
+    "price": 41,
+    "image": [
+      "https://picsum.photos/seed/816_130/400/500",
+      "https://picsum.photos/seed/731_131/400/500",
+      "https://picsum.photos/seed/144_132/400/500",
+      "https://picsum.photos/seed/618_133/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1753923267955
+  },
+  {
+    "_id": "seed_14",
+    "name": "WOMEN Slim T-Shirt",
+    "description": "WOMEN Slim T-Shirt made with quality materials.",
+    "price": 111,
+    "image": [
+      "https://picsum.photos/seed/46_140/400/500",
+      "https://picsum.photos/seed/89_141/400/500",
+      "https://picsum.photos/seed/381_142/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1756342467955
+  },
+  {
+    "_id": "seed_15",
+    "name": "WOMEN Classic Puffer",
+    "description": "WOMEN Classic Puffer made with quality materials.",
+    "price": 25,
+    "image": [
+      "https://picsum.photos/seed/416_150/400/500",
+      "https://picsum.photos/seed/762_151/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1752540867955
+  },
+  {
+    "_id": "seed_16",
+    "name": "WOMEN Chill Joggers",
+    "description": "WOMEN Chill Joggers made with quality materials.",
+    "price": 34,
+    "image": [
+      "https://picsum.photos/seed/893_160/400/500",
+      "https://picsum.photos/seed/322_161/400/500",
+      "https://picsum.photos/seed/418_162/400/500",
+      "https://picsum.photos/seed/276_163/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1745542467955
+  },
+  {
+    "_id": "seed_17",
+    "name": "MEN Slim Joggers",
+    "description": "MEN Slim Joggers made with quality materials.",
+    "price": 122,
+    "image": [
+      "https://picsum.photos/seed/289_170/400/500",
+      "https://picsum.photos/seed/678_171/400/500",
+      "https://picsum.photos/seed/104_172/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1744332867955
+  },
+  {
+    "_id": "seed_18",
+    "name": "WOMEN Comfy Jacket",
+    "description": "WOMEN Comfy Jacket made with quality materials.",
+    "price": 31,
+    "image": [
+      "https://picsum.photos/seed/309_180/400/500",
+      "https://picsum.photos/seed/790_181/400/500",
+      "https://picsum.photos/seed/641_182/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1757379267955
+  },
+  {
+    "_id": "seed_19",
+    "name": "WOMEN Oversized Shirt",
+    "description": "WOMEN Oversized Shirt made with quality materials.",
+    "price": 61,
+    "image": [
+      "https://picsum.photos/seed/663_190/400/500",
+      "https://picsum.photos/seed/45_191/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1754182467955
+  },
+  {
+    "_id": "seed_20",
+    "name": "MEN Oversized Sweatshirt",
+    "description": "MEN Oversized Sweatshirt made with quality materials.",
+    "price": 51,
+    "image": [
+      "https://picsum.photos/seed/722_200/400/500",
+      "https://picsum.photos/seed/895_201/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1748393667955
+  },
+  {
+    "_id": "seed_21",
+    "name": "WOMEN Oversized Joggers",
+    "description": "WOMEN Oversized Joggers made with quality materials.",
+    "price": 34,
+    "image": [
+      "https://picsum.photos/seed/811_210/400/500",
+      "https://picsum.photos/seed/334_211/400/500",
+      "https://picsum.photos/seed/883_212/400/500",
+      "https://picsum.photos/seed/460_213/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1744332867955
+  },
+  {
+    "_id": "seed_22",
+    "name": "MEN Chill Jacket",
+    "description": "MEN Chill Jacket made with quality materials.",
+    "price": 160,
+    "image": [
+      "https://picsum.photos/seed/586_220/400/500",
+      "https://picsum.photos/seed/588_221/400/500",
+      "https://picsum.photos/seed/127_222/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1750553667955
+  },
+  {
+    "_id": "seed_23",
+    "name": "KIDS Premium Puffer",
+    "description": "KIDS Premium Puffer made with quality materials.",
+    "price": 35,
+    "image": [
+      "https://picsum.photos/seed/749_230/400/500",
+      "https://picsum.photos/seed/678_231/400/500",
+      "https://picsum.photos/seed/300_232/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1752800067955
+  },
+  {
+    "_id": "seed_24",
+    "name": "WOMEN Slim T-Shirt",
+    "description": "WOMEN Slim T-Shirt made with quality materials.",
+    "price": 51,
+    "image": [
+      "https://picsum.photos/seed/948_240/400/500",
+      "https://picsum.photos/seed/410_241/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1757206467955
+  },
+  {
+    "_id": "seed_25",
+    "name": "WOMEN Oversized Puffer",
+    "description": "WOMEN Oversized Puffer made with quality materials.",
+    "price": 61,
+    "image": [
+      "https://picsum.photos/seed/120_250/400/500",
+      "https://picsum.photos/seed/217_251/400/500",
+      "https://picsum.photos/seed/167_252/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1755564867955
+  },
+  {
+    "_id": "seed_26",
+    "name": "WOMEN Chill Joggers",
+    "description": "WOMEN Chill Joggers made with quality materials.",
+    "price": 140,
+    "image": [
+      "https://picsum.photos/seed/734_260/400/500",
+      "https://picsum.photos/seed/736_261/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1754009667955
+  },
+  {
+    "_id": "seed_27",
+    "name": "KIDS Slim Pants",
+    "description": "KIDS Slim Pants made with quality materials.",
+    "price": 132,
+    "image": [
+      "https://picsum.photos/seed/682_270/400/500",
+      "https://picsum.photos/seed/271_271/400/500",
+      "https://picsum.photos/seed/789_272/400/500",
+      "https://picsum.photos/seed/206_273/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1750035267955
+  },
+  {
+    "_id": "seed_28",
+    "name": "KIDS Essential T-Shirt",
+    "description": "KIDS Essential T-Shirt made with quality materials.",
+    "price": 51,
+    "image": [
+      "https://picsum.photos/seed/976_280/400/500",
+      "https://picsum.photos/seed/642_281/400/500",
+      "https://picsum.photos/seed/956_282/400/500",
+      "https://picsum.photos/seed/965_283/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1749516867955
+  },
+  {
+    "_id": "seed_29",
+    "name": "MEN Premium Sweatshirt",
+    "description": "MEN Premium Sweatshirt made with quality materials.",
+    "price": 163,
+    "image": [
+      "https://picsum.photos/seed/450_290/400/500",
+      "https://picsum.photos/seed/103_291/400/500",
+      "https://picsum.photos/seed/459_292/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1747356867955
+  },
+  {
+    "_id": "seed_30",
+    "name": "KIDS Cozy Shirt",
+    "description": "KIDS Cozy Shirt made with quality materials.",
+    "price": 83,
+    "image": [
+      "https://picsum.photos/seed/160_300/400/500",
+      "https://picsum.photos/seed/779_301/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1744160067955
+  },
+  {
+    "_id": "seed_31",
+    "name": "MEN Premium Joggers",
+    "description": "MEN Premium Joggers made with quality materials.",
+    "price": 48,
+    "image": [
+      "https://picsum.photos/seed/417_310/400/500",
+      "https://picsum.photos/seed/328_311/400/500",
+      "https://picsum.photos/seed/102_312/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1750899267955
+  },
+  {
+    "_id": "seed_32",
+    "name": "MEN Comfy T-Shirt",
+    "description": "MEN Comfy T-Shirt made with quality materials.",
+    "price": 114,
+    "image": [
+      "https://picsum.photos/seed/486_320/400/500",
+      "https://picsum.photos/seed/354_321/400/500",
+      "https://picsum.photos/seed/227_322/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1749862467955
+  },
+  {
+    "_id": "seed_33",
+    "name": "KIDS Urban Hoodie",
+    "description": "KIDS Urban Hoodie made with quality materials.",
+    "price": 59,
+    "image": [
+      "https://picsum.photos/seed/984_330/400/500",
+      "https://picsum.photos/seed/957_331/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1748134467955
+  },
+  {
+    "_id": "seed_34",
+    "name": "WOMEN Urban Puffer",
+    "description": "WOMEN Urban Puffer made with quality materials.",
+    "price": 67,
+    "image": [
+      "https://picsum.photos/seed/347_340/400/500",
+      "https://picsum.photos/seed/356_341/400/500",
+      "https://picsum.photos/seed/812_342/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1745715267955
+  },
+  {
+    "_id": "seed_35",
+    "name": "MEN Comfy Pants",
+    "description": "MEN Comfy Pants made with quality materials.",
+    "price": 155,
+    "image": [
+      "https://picsum.photos/seed/722_350/400/500",
+      "https://picsum.photos/seed/882_351/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1748307267955
+  },
+  {
+    "_id": "seed_36",
+    "name": "MEN Premium Hoodie",
+    "description": "MEN Premium Hoodie made with quality materials.",
+    "price": 158,
+    "image": [
+      "https://picsum.photos/seed/571_360/400/500",
+      "https://picsum.photos/seed/466_361/400/500",
+      "https://picsum.photos/seed/595_362/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1745542467955
+  },
+  {
+    "_id": "seed_37",
+    "name": "KIDS Premium Shorts",
+    "description": "KIDS Premium Shorts made with quality materials.",
+    "price": 68,
+    "image": [
+      "https://picsum.photos/seed/432_370/400/500",
+      "https://picsum.photos/seed/676_371/400/500",
+      "https://picsum.photos/seed/643_372/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1754614467955
+  },
+  {
+    "_id": "seed_38",
+    "name": "MEN Cozy Cardigan",
+    "description": "MEN Cozy Cardigan made with quality materials.",
+    "price": 49,
+    "image": [
+      "https://picsum.photos/seed/980_380/400/500",
+      "https://picsum.photos/seed/326_381/400/500",
+      "https://picsum.photos/seed/668_382/400/500",
+      "https://picsum.photos/seed/181_383/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1754614467955
+  },
+  {
+    "_id": "seed_39",
+    "name": "MEN Premium Joggers",
+    "description": "MEN Premium Joggers made with quality materials.",
+    "price": 107,
+    "image": [
+      "https://picsum.photos/seed/471_390/400/500",
+      "https://picsum.photos/seed/910_391/400/500",
+      "https://picsum.photos/seed/206_392/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1745024067955
+  },
+  {
+    "_id": "seed_40",
+    "name": "MEN Urban Joggers",
+    "description": "MEN Urban Joggers made with quality materials.",
+    "price": 143,
+    "image": [
+      "https://picsum.photos/seed/347_400/400/500",
+      "https://picsum.photos/seed/204_401/400/500",
+      "https://picsum.photos/seed/482_402/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1756169667955
+  },
+  {
+    "_id": "seed_41",
+    "name": "WOMEN Slim T-Shirt",
+    "description": "WOMEN Slim T-Shirt made with quality materials.",
+    "price": 106,
+    "image": [
+      "https://picsum.photos/seed/217_410/400/500",
+      "https://picsum.photos/seed/323_411/400/500",
+      "https://picsum.photos/seed/275_412/400/500",
+      "https://picsum.photos/seed/766_413/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1754268867955
+  },
+  {
+    "_id": "seed_42",
+    "name": "WOMEN Cozy Shorts",
+    "description": "WOMEN Cozy Shorts made with quality materials.",
+    "price": 154,
+    "image": [
+      "https://picsum.photos/seed/427_420/400/500",
+      "https://picsum.photos/seed/861_421/400/500",
+      "https://picsum.photos/seed/127_422/400/500",
+      "https://picsum.photos/seed/878_423/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1748912067955
+  },
+  {
+    "_id": "seed_43",
+    "name": "WOMEN Comfy Shirt",
+    "description": "WOMEN Comfy Shirt made with quality materials.",
+    "price": 55,
+    "image": [
+      "https://picsum.photos/seed/132_430/400/500",
+      "https://picsum.photos/seed/847_431/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1751676867955
+  },
+  {
+    "_id": "seed_44",
+    "name": "KIDS Premium Puffer",
+    "description": "KIDS Premium Puffer made with quality materials.",
+    "price": 24,
+    "image": [
+      "https://picsum.photos/seed/847_440/400/500",
+      "https://picsum.photos/seed/591_441/400/500",
+      "https://picsum.photos/seed/710_442/400/500",
+      "https://picsum.photos/seed/215_443/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1748998467955
+  },
+  {
+    "_id": "seed_45",
+    "name": "MEN Urban Sweatshirt",
+    "description": "MEN Urban Sweatshirt made with quality materials.",
+    "price": 32,
+    "image": [
+      "https://picsum.photos/seed/466_450/400/500",
+      "https://picsum.photos/seed/462_451/400/500",
+      "https://picsum.photos/seed/451_452/400/500",
+      "https://picsum.photos/seed/816_453/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1757120067955
+  },
+  {
+    "_id": "seed_46",
+    "name": "KIDS Cozy T-Shirt",
+    "description": "KIDS Cozy T-Shirt made with quality materials.",
+    "price": 61,
+    "image": [
+      "https://picsum.photos/seed/34_460/400/500",
+      "https://picsum.photos/seed/417_461/400/500",
+      "https://picsum.photos/seed/850_462/400/500",
+      "https://picsum.photos/seed/283_463/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1747961667955
+  },
+  {
+    "_id": "seed_47",
+    "name": "WOMEN Comfy Cardigan",
+    "description": "WOMEN Comfy Cardigan made with quality materials.",
+    "price": 26,
+    "image": [
+      "https://picsum.photos/seed/973_470/400/500",
+      "https://picsum.photos/seed/696_471/400/500",
+      "https://picsum.photos/seed/528_472/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1758070467955
+  },
+  {
+    "_id": "seed_48",
+    "name": "MEN Comfy Sweatshirt",
+    "description": "MEN Comfy Sweatshirt made with quality materials.",
+    "price": 28,
+    "image": [
+      "https://picsum.photos/seed/528_480/400/500",
+      "https://picsum.photos/seed/476_481/400/500",
+      "https://picsum.photos/seed/137_482/400/500",
+      "https://picsum.photos/seed/708_483/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1745110467955
+  },
+  {
+    "_id": "seed_49",
+    "name": "WOMEN Chill T-Shirt",
+    "description": "WOMEN Chill T-Shirt made with quality materials.",
+    "price": 145,
+    "image": [
+      "https://picsum.photos/seed/709_490/400/500",
+      "https://picsum.photos/seed/154_491/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1753577667955
+  },
+  {
+    "_id": "seed_50",
+    "name": "WOMEN Sport Pants",
+    "description": "WOMEN Sport Pants made with quality materials.",
+    "price": 128,
+    "image": [
+      "https://picsum.photos/seed/712_500/400/500",
+      "https://picsum.photos/seed/572_501/400/500",
+      "https://picsum.photos/seed/885_502/400/500",
+      "https://picsum.photos/seed/342_503/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1758675267955
+  },
+  {
+    "_id": "seed_51",
+    "name": "MEN Oversized T-Shirt",
+    "description": "MEN Oversized T-Shirt made with quality materials.",
+    "price": 17,
+    "image": [
+      "https://picsum.photos/seed/466_510/400/500",
+      "https://picsum.photos/seed/181_511/400/500",
+      "https://picsum.photos/seed/959_512/400/500",
+      "https://picsum.photos/seed/16_513/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1753836867955
+  },
+  {
+    "_id": "seed_52",
+    "name": "WOMEN Essential Joggers",
+    "description": "WOMEN Essential Joggers made with quality materials.",
+    "price": 90,
+    "image": [
+      "https://picsum.photos/seed/574_520/400/500",
+      "https://picsum.photos/seed/916_521/400/500",
+      "https://picsum.photos/seed/390_522/400/500",
+      "https://picsum.photos/seed/390_523/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1755305667955
+  },
+  {
+    "_id": "seed_53",
+    "name": "KIDS Cozy Shorts",
+    "description": "KIDS Cozy Shorts made with quality materials.",
+    "price": 143,
+    "image": [
+      "https://picsum.photos/seed/642_530/400/500",
+      "https://picsum.photos/seed/330_531/400/500",
+      "https://picsum.photos/seed/615_532/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1746579267955
+  },
+  {
+    "_id": "seed_54",
+    "name": "KIDS Classic Hoodie",
+    "description": "KIDS Classic Hoodie made with quality materials.",
+    "price": 158,
+    "image": [
+      "https://picsum.photos/seed/916_540/400/500",
+      "https://picsum.photos/seed/47_541/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1743382467955
+  },
+  {
+    "_id": "seed_55",
+    "name": "MEN Chill Shorts",
+    "description": "MEN Chill Shorts made with quality materials.",
+    "price": 30,
+    "image": [
+      "https://picsum.photos/seed/768_550/400/500",
+      "https://picsum.photos/seed/27_551/400/500",
+      "https://picsum.photos/seed/976_552/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1754355267955
+  },
+  {
+    "_id": "seed_56",
+    "name": "MEN Slim T-Shirt",
+    "description": "MEN Slim T-Shirt made with quality materials.",
+    "price": 161,
+    "image": [
+      "https://picsum.photos/seed/289_560/400/500",
+      "https://picsum.photos/seed/658_561/400/500",
+      "https://picsum.photos/seed/783_562/400/500",
+      "https://picsum.photos/seed/967_563/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1748566467955
+  },
+  {
+    "_id": "seed_57",
+    "name": "MEN Classic T-Shirt",
+    "description": "MEN Classic T-Shirt made with quality materials.",
+    "price": 73,
+    "image": [
+      "https://picsum.photos/seed/955_570/400/500",
+      "https://picsum.photos/seed/817_571/400/500",
+      "https://picsum.photos/seed/356_572/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1757638467955
+  },
+  {
+    "_id": "seed_58",
+    "name": "KIDS Urban Cardigan",
+    "description": "KIDS Urban Cardigan made with quality materials.",
+    "price": 26,
+    "image": [
+      "https://picsum.photos/seed/497_580/400/500",
+      "https://picsum.photos/seed/184_581/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1755392067955
+  },
+  {
+    "_id": "seed_59",
+    "name": "KIDS Comfy Jacket",
+    "description": "KIDS Comfy Jacket made with quality materials.",
+    "price": 53,
+    "image": [
+      "https://picsum.photos/seed/729_590/400/500",
+      "https://picsum.photos/seed/154_591/400/500",
+      "https://picsum.photos/seed/149_592/400/500",
+      "https://picsum.photos/seed/116_593/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1748739267955
+  },
+  {
+    "_id": "seed_60",
+    "name": "KIDS Sport Joggers",
+    "description": "KIDS Sport Joggers made with quality materials.",
+    "price": 77,
+    "image": [
+      "https://picsum.photos/seed/608_600/400/500",
+      "https://picsum.photos/seed/947_601/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1754441667955
+  },
+  {
+    "_id": "seed_61",
+    "name": "WOMEN Cozy Shorts",
+    "description": "WOMEN Cozy Shorts made with quality materials.",
+    "price": 22,
+    "image": [
+      "https://picsum.photos/seed/752_610/400/500",
+      "https://picsum.photos/seed/931_611/400/500",
+      "https://picsum.photos/seed/668_612/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1757292867955
+  },
+  {
+    "_id": "seed_62",
+    "name": "KIDS Comfy T-Shirt",
+    "description": "KIDS Comfy T-Shirt made with quality materials.",
+    "price": 38,
+    "image": [
+      "https://picsum.photos/seed/444_620/400/500",
+      "https://picsum.photos/seed/714_621/400/500",
+      "https://picsum.photos/seed/112_622/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1755478467955
+  },
+  {
+    "_id": "seed_63",
+    "name": "MEN Sport Puffer",
+    "description": "MEN Sport Puffer made with quality materials.",
+    "price": 137,
+    "image": [
+      "https://picsum.photos/seed/220_630/400/500",
+      "https://picsum.photos/seed/641_631/400/500",
+      "https://picsum.photos/seed/217_632/400/500",
+      "https://picsum.photos/seed/170_633/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1745110467955
+  },
+  {
+    "_id": "seed_64",
+    "name": "MEN Comfy Shirt",
+    "description": "MEN Comfy Shirt made with quality materials.",
+    "price": 130,
+    "image": [
+      "https://picsum.photos/seed/491_640/400/500",
+      "https://picsum.photos/seed/43_641/400/500",
+      "https://picsum.photos/seed/416_642/400/500",
+      "https://picsum.photos/seed/419_643/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1750121667955
+  },
+  {
+    "_id": "seed_65",
+    "name": "WOMEN Comfy Shirt",
+    "description": "WOMEN Comfy Shirt made with quality materials.",
+    "price": 47,
+    "image": [
+      "https://picsum.photos/seed/371_650/400/500",
+      "https://picsum.photos/seed/129_651/400/500",
+      "https://picsum.photos/seed/787_652/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1750812867955
+  },
+  {
+    "_id": "seed_66",
+    "name": "KIDS Chill T-Shirt",
+    "description": "KIDS Chill T-Shirt made with quality materials.",
+    "price": 35,
+    "image": [
+      "https://picsum.photos/seed/146_660/400/500",
+      "https://picsum.photos/seed/417_661/400/500",
+      "https://picsum.photos/seed/87_662/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1755651267955
+  },
+  {
+    "_id": "seed_67",
+    "name": "MEN Urban Hoodie",
+    "description": "MEN Urban Hoodie made with quality materials.",
+    "price": 136,
+    "image": [
+      "https://picsum.photos/seed/965_670/400/500",
+      "https://picsum.photos/seed/413_671/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1756169667955
+  },
+  {
+    "_id": "seed_68",
+    "name": "KIDS Cozy Shirt",
+    "description": "KIDS Cozy Shirt made with quality materials.",
+    "price": 17,
+    "image": [
+      "https://picsum.photos/seed/792_680/400/500",
+      "https://picsum.photos/seed/300_681/400/500",
+      "https://picsum.photos/seed/352_682/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1744160067955
+  },
+  {
+    "_id": "seed_69",
+    "name": "WOMEN Oversized Jacket",
+    "description": "WOMEN Oversized Jacket made with quality materials.",
+    "price": 24,
+    "image": [
+      "https://picsum.photos/seed/785_690/400/500",
+      "https://picsum.photos/seed/112_691/400/500",
+      "https://picsum.photos/seed/108_692/400/500",
+      "https://picsum.photos/seed/337_693/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1756083267955
+  },
+  {
+    "_id": "seed_70",
+    "name": "WOMEN Chill Puffer",
+    "description": "WOMEN Chill Puffer made with quality materials.",
+    "price": 125,
+    "image": [
+      "https://picsum.photos/seed/448_700/400/500",
+      "https://picsum.photos/seed/104_701/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1750380867955
+  },
+  {
+    "_id": "seed_71",
+    "name": "KIDS Urban Joggers",
+    "description": "KIDS Urban Joggers made with quality materials.",
+    "price": 30,
+    "image": [
+      "https://picsum.photos/seed/640_710/400/500",
+      "https://picsum.photos/seed/160_711/400/500",
+      "https://picsum.photos/seed/530_712/400/500",
+      "https://picsum.photos/seed/360_713/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1752281667955
+  },
+  {
+    "_id": "seed_72",
+    "name": "MEN Cozy Jacket",
+    "description": "MEN Cozy Jacket made with quality materials.",
+    "price": 20,
+    "image": [
+      "https://picsum.photos/seed/770_720/400/500",
+      "https://picsum.photos/seed/996_721/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1756083267955
+  },
+  {
+    "_id": "seed_73",
+    "name": "KIDS Premium Jacket",
+    "description": "KIDS Premium Jacket made with quality materials.",
+    "price": 105,
+    "image": [
+      "https://picsum.photos/seed/937_730/400/500",
+      "https://picsum.photos/seed/589_731/400/500",
+      "https://picsum.photos/seed/767_732/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1757120067955
+  },
+  {
+    "_id": "seed_74",
+    "name": "KIDS Premium Shirt",
+    "description": "KIDS Premium Shirt made with quality materials.",
+    "price": 64,
+    "image": [
+      "https://picsum.photos/seed/935_740/400/500",
+      "https://picsum.photos/seed/151_741/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1750035267955
+  },
+  {
+    "_id": "seed_75",
+    "name": "KIDS Premium T-Shirt",
+    "description": "KIDS Premium T-Shirt made with quality materials.",
+    "price": 98,
+    "image": [
+      "https://picsum.photos/seed/342_750/400/500",
+      "https://picsum.photos/seed/55_751/400/500",
+      "https://picsum.photos/seed/170_752/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1752108867955
+  },
+  {
+    "_id": "seed_76",
+    "name": "MEN Urban Hoodie",
+    "description": "MEN Urban Hoodie made with quality materials.",
+    "price": 54,
+    "image": [
+      "https://picsum.photos/seed/527_760/400/500",
+      "https://picsum.photos/seed/205_761/400/500",
+      "https://picsum.photos/seed/388_762/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1749084867955
+  },
+  {
+    "_id": "seed_77",
+    "name": "MEN Cozy Joggers",
+    "description": "MEN Cozy Joggers made with quality materials.",
+    "price": 130,
+    "image": [
+      "https://picsum.photos/seed/178_770/400/500",
+      "https://picsum.photos/seed/242_771/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1745715267955
+  },
+  {
+    "_id": "seed_78",
+    "name": "KIDS Chill Pants",
+    "description": "KIDS Chill Pants made with quality materials.",
+    "price": 115,
+    "image": [
+      "https://picsum.photos/seed/560_780/400/500",
+      "https://picsum.photos/seed/222_781/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1754873667955
+  },
+  {
+    "_id": "seed_79",
+    "name": "MEN Premium Joggers",
+    "description": "MEN Premium Joggers made with quality materials.",
+    "price": 114,
+    "image": [
+      "https://picsum.photos/seed/810_790/400/500",
+      "https://picsum.photos/seed/379_791/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1746665667955
+  },
+  {
+    "_id": "seed_80",
+    "name": "MEN Chill Hoodie",
+    "description": "MEN Chill Hoodie made with quality materials.",
+    "price": 62,
+    "image": [
+      "https://picsum.photos/seed/877_800/400/500",
+      "https://picsum.photos/seed/960_801/400/500",
+      "https://picsum.photos/seed/619_802/400/500",
+      "https://picsum.photos/seed/552_803/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1754096067955
+  },
+  {
+    "_id": "seed_81",
+    "name": "WOMEN Premium T-Shirt",
+    "description": "WOMEN Premium T-Shirt made with quality materials.",
+    "price": 144,
+    "image": [
+      "https://picsum.photos/seed/667_810/400/500",
+      "https://picsum.photos/seed/307_811/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1747270467955
+  },
+  {
+    "_id": "seed_82",
+    "name": "MEN Chill Jacket",
+    "description": "MEN Chill Jacket made with quality materials.",
+    "price": 16,
+    "image": [
+      "https://picsum.photos/seed/872_820/400/500",
+      "https://picsum.photos/seed/953_821/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1757984067955
+  },
+  {
+    "_id": "seed_83",
+    "name": "WOMEN Premium Cardigan",
+    "description": "WOMEN Premium Cardigan made with quality materials.",
+    "price": 86,
+    "image": [
+      "https://picsum.photos/seed/320_830/400/500",
+      "https://picsum.photos/seed/698_831/400/500",
+      "https://picsum.photos/seed/567_832/400/500",
+      "https://picsum.photos/seed/379_833/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1745974467955
+  },
+  {
+    "_id": "seed_84",
+    "name": "KIDS Premium Sweatshirt",
+    "description": "KIDS Premium Sweatshirt made with quality materials.",
+    "price": 159,
+    "image": [
+      "https://picsum.photos/seed/422_840/400/500",
+      "https://picsum.photos/seed/748_841/400/500",
+      "https://picsum.photos/seed/464_842/400/500",
+      "https://picsum.photos/seed/715_843/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1758502467955
+  },
+  {
+    "_id": "seed_85",
+    "name": "KIDS Oversized Pants",
+    "description": "KIDS Oversized Pants made with quality materials.",
+    "price": 123,
+    "image": [
+      "https://picsum.photos/seed/39_850/400/500",
+      "https://picsum.photos/seed/443_851/400/500",
+      "https://picsum.photos/seed/302_852/400/500",
+      "https://picsum.photos/seed/565_853/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1754182467955
+  },
+  {
+    "_id": "seed_86",
+    "name": "WOMEN Chill T-Shirt",
+    "description": "WOMEN Chill T-Shirt made with quality materials.",
+    "price": 38,
+    "image": [
+      "https://picsum.photos/seed/263_860/400/500",
+      "https://picsum.photos/seed/550_861/400/500",
+      "https://picsum.photos/seed/10_862/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1750294467955
+  },
+  {
+    "_id": "seed_87",
+    "name": "MEN Chill Puffer",
+    "description": "MEN Chill Puffer made with quality materials.",
+    "price": 44,
+    "image": [
+      "https://picsum.photos/seed/271_870/400/500",
+      "https://picsum.photos/seed/873_871/400/500",
+      "https://picsum.photos/seed/340_872/400/500",
+      "https://picsum.photos/seed/694_873/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1744246467955
+  },
+  {
+    "_id": "seed_88",
+    "name": "KIDS Essential Hoodie",
+    "description": "KIDS Essential Hoodie made with quality materials.",
+    "price": 108,
+    "image": [
+      "https://picsum.photos/seed/743_880/400/500",
+      "https://picsum.photos/seed/176_881/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1748220867955
+  },
+  {
+    "_id": "seed_89",
+    "name": "MEN Premium Jacket",
+    "description": "MEN Premium Jacket made with quality materials.",
+    "price": 83,
+    "image": [
+      "https://picsum.photos/seed/171_890/400/500",
+      "https://picsum.photos/seed/723_891/400/500",
+      "https://picsum.photos/seed/465_892/400/500",
+      "https://picsum.photos/seed/342_893/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1750208067955
+  },
+  {
+    "_id": "seed_90",
+    "name": "WOMEN Slim Joggers",
+    "description": "WOMEN Slim Joggers made with quality materials.",
+    "price": 70,
+    "image": [
+      "https://picsum.photos/seed/554_900/400/500",
+      "https://picsum.photos/seed/205_901/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1747875267955
+  },
+  {
+    "_id": "seed_91",
+    "name": "KIDS Slim Cardigan",
+    "description": "KIDS Slim Cardigan made with quality materials.",
+    "price": 112,
+    "image": [
+      "https://picsum.photos/seed/511_910/400/500",
+      "https://picsum.photos/seed/960_911/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1751763267955
+  },
+  {
+    "_id": "seed_92",
+    "name": "MEN Sport Joggers",
+    "description": "MEN Sport Joggers made with quality materials.",
+    "price": 153,
+    "image": [
+      "https://picsum.photos/seed/389_920/400/500",
+      "https://picsum.photos/seed/647_921/400/500",
+      "https://picsum.photos/seed/951_922/400/500",
+      "https://picsum.photos/seed/937_923/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1750467267955
+  },
+  {
+    "_id": "seed_93",
+    "name": "WOMEN Urban Jacket",
+    "description": "WOMEN Urban Jacket made with quality materials.",
+    "price": 86,
+    "image": [
+      "https://picsum.photos/seed/174_930/400/500",
+      "https://picsum.photos/seed/827_931/400/500",
+      "https://picsum.photos/seed/742_932/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1756860867955
+  },
+  {
+    "_id": "seed_94",
+    "name": "KIDS Urban Shirt",
+    "description": "KIDS Urban Shirt made with quality materials.",
+    "price": 43,
+    "image": [
+      "https://picsum.photos/seed/20_940/400/500",
+      "https://picsum.photos/seed/213_941/400/500",
+      "https://picsum.photos/seed/736_942/400/500",
+      "https://picsum.photos/seed/814_943/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1752886467955
+  },
+  {
+    "_id": "seed_95",
+    "name": "WOMEN Slim Pants",
+    "description": "WOMEN Slim Pants made with quality materials.",
+    "price": 117,
+    "image": [
+      "https://picsum.photos/seed/823_950/400/500",
+      "https://picsum.photos/seed/460_951/400/500",
+      "https://picsum.photos/seed/564_952/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1748220867955
+  },
+  {
+    "_id": "seed_96",
+    "name": "WOMEN Urban Cardigan",
+    "description": "WOMEN Urban Cardigan made with quality materials.",
+    "price": 142,
+    "image": [
+      "https://picsum.photos/seed/471_960/400/500",
+      "https://picsum.photos/seed/773_961/400/500",
+      "https://picsum.photos/seed/909_962/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1746060867955
+  },
+  {
+    "_id": "seed_97",
+    "name": "KIDS Premium Hoodie",
+    "description": "KIDS Premium Hoodie made with quality materials.",
+    "price": 62,
+    "image": [
+      "https://picsum.photos/seed/808_970/400/500",
+      "https://picsum.photos/seed/271_971/400/500",
+      "https://picsum.photos/seed/628_972/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1755737667955
+  },
+  {
+    "_id": "seed_98",
+    "name": "KIDS Cozy Sweatshirt",
+    "description": "KIDS Cozy Sweatshirt made with quality materials.",
+    "price": 138,
+    "image": [
+      "https://picsum.photos/seed/480_980/400/500",
+      "https://picsum.photos/seed/961_981/400/500",
+      "https://picsum.photos/seed/152_982/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1752886467955
+  },
+  {
+    "_id": "seed_99",
+    "name": "KIDS Slim Puffer",
+    "description": "KIDS Slim Puffer made with quality materials.",
+    "price": 163,
+    "image": [
+      "https://picsum.photos/seed/936_990/400/500",
+      "https://picsum.photos/seed/852_991/400/500",
+      "https://picsum.photos/seed/846_992/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1756947267955
+  },
+  {
+    "_id": "seed_100",
+    "name": "KIDS Sport Sweatshirt",
+    "description": "KIDS Sport Sweatshirt made with quality materials.",
+    "price": 59,
+    "image": [
+      "https://picsum.photos/seed/601000/400/500",
+      "https://picsum.photos/seed/8241001/400/500",
+      "https://picsum.photos/seed/471002/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1757379267955
+  },
+  {
+    "_id": "seed_101",
+    "name": "KIDS Cozy Shirt",
+    "description": "KIDS Cozy Shirt made with quality materials.",
+    "price": 97,
+    "image": [
+      "https://picsum.photos/seed/9771010/400/500",
+      "https://picsum.photos/seed/8901011/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1757465667955
+  },
+  {
+    "_id": "seed_102",
+    "name": "KIDS Chill Pants",
+    "description": "KIDS Chill Pants made with quality materials.",
+    "price": 17,
+    "image": [
+      "https://picsum.photos/seed/2611020/400/500",
+      "https://picsum.photos/seed/4931021/400/500",
+      "https://picsum.photos/seed/9631022/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1756774467955
+  },
+  {
+    "_id": "seed_103",
+    "name": "WOMEN Cozy Cardigan",
+    "description": "WOMEN Cozy Cardigan made with quality materials.",
+    "price": 148,
+    "image": [
+      "https://picsum.photos/seed/6231030/400/500",
+      "https://picsum.photos/seed/2521031/400/500",
+      "https://picsum.photos/seed/3041032/400/500",
+      "https://picsum.photos/seed/9181033/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1750985667955
+  },
+  {
+    "_id": "seed_104",
+    "name": "WOMEN Essential Puffer",
+    "description": "WOMEN Essential Puffer made with quality materials.",
+    "price": 161,
+    "image": [
+      "https://picsum.photos/seed/4951040/400/500",
+      "https://picsum.photos/seed/4091041/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1746492867955
+  },
+  {
+    "_id": "seed_105",
+    "name": "MEN Comfy Pants",
+    "description": "MEN Comfy Pants made with quality materials.",
+    "price": 79,
+    "image": [
+      "https://picsum.photos/seed/291050/400/500",
+      "https://picsum.photos/seed/6371051/400/500",
+      "https://picsum.photos/seed/8031052/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1753318467955
+  },
+  {
+    "_id": "seed_106",
+    "name": "KIDS Premium Shorts",
+    "description": "KIDS Premium Shorts made with quality materials.",
+    "price": 95,
+    "image": [
+      "https://picsum.photos/seed/9001060/400/500",
+      "https://picsum.photos/seed/6191061/400/500",
+      "https://picsum.photos/seed/9031062/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1745283267955
+  },
+  {
+    "_id": "seed_107",
+    "name": "MEN Urban Jacket",
+    "description": "MEN Urban Jacket made with quality materials.",
+    "price": 132,
+    "image": [
+      "https://picsum.photos/seed/6701070/400/500",
+      "https://picsum.photos/seed/4541071/400/500",
+      "https://picsum.photos/seed/2701072/400/500",
+      "https://picsum.photos/seed/8041073/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1751936067955
+  },
+  {
+    "_id": "seed_108",
+    "name": "KIDS Classic Joggers",
+    "description": "KIDS Classic Joggers made with quality materials.",
+    "price": 62,
+    "image": [
+      "https://picsum.photos/seed/8651080/400/500",
+      "https://picsum.photos/seed/7881081/400/500",
+      "https://picsum.photos/seed/8691082/400/500",
+      "https://picsum.photos/seed/8631083/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1758502467955
+  },
+  {
+    "_id": "seed_109",
+    "name": "WOMEN Sport Shorts",
+    "description": "WOMEN Sport Shorts made with quality materials.",
+    "price": 139,
+    "image": [
+      "https://picsum.photos/seed/31090/400/500",
+      "https://picsum.photos/seed/2111091/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1749171267955
+  },
+  {
+    "_id": "seed_110",
+    "name": "MEN Cozy Shorts",
+    "description": "MEN Cozy Shorts made with quality materials.",
+    "price": 149,
+    "image": [
+      "https://picsum.photos/seed/4781100/400/500",
+      "https://picsum.photos/seed/8681101/400/500",
+      "https://picsum.photos/seed/9451102/400/500",
+      "https://picsum.photos/seed/8351103/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1743728067955
+  },
+  {
+    "_id": "seed_111",
+    "name": "KIDS Classic Shirt",
+    "description": "KIDS Classic Shirt made with quality materials.",
+    "price": 54,
+    "image": [
+      "https://picsum.photos/seed/6511110/400/500",
+      "https://picsum.photos/seed/4991111/400/500",
+      "https://picsum.photos/seed/4351112/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1751676867955
+  },
+  {
+    "_id": "seed_112",
+    "name": "WOMEN Cozy Sweatshirt",
+    "description": "WOMEN Cozy Sweatshirt made with quality materials.",
+    "price": 104,
+    "image": [
+      "https://picsum.photos/seed/11120/400/500",
+      "https://picsum.photos/seed/5891121/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1753491267955
+  },
+  {
+    "_id": "seed_113",
+    "name": "KIDS Classic T-Shirt",
+    "description": "KIDS Classic T-Shirt made with quality materials.",
+    "price": 117,
+    "image": [
+      "https://picsum.photos/seed/4421130/400/500",
+      "https://picsum.photos/seed/8141131/400/500",
+      "https://picsum.photos/seed/2781132/400/500",
+      "https://picsum.photos/seed/621133/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1746320067955
+  },
+  {
+    "_id": "seed_114",
+    "name": "MEN Oversized Pants",
+    "description": "MEN Oversized Pants made with quality materials.",
+    "price": 126,
+    "image": [
+      "https://picsum.photos/seed/8581140/400/500",
+      "https://picsum.photos/seed/4641141/400/500",
+      "https://picsum.photos/seed/5191142/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1745888067955
+  },
+  {
+    "_id": "seed_115",
+    "name": "MEN Cozy Pants",
+    "description": "MEN Cozy Pants made with quality materials.",
+    "price": 31,
+    "image": [
+      "https://picsum.photos/seed/2181150/400/500",
+      "https://picsum.photos/seed/4981151/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1756083267955
+  },
+  {
+    "_id": "seed_116",
+    "name": "KIDS Urban Joggers",
+    "description": "KIDS Urban Joggers made with quality materials.",
+    "price": 89,
+    "image": [
+      "https://picsum.photos/seed/8261160/400/500",
+      "https://picsum.photos/seed/2751161/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "TOPWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1755478467955
+  },
+  {
+    "_id": "seed_117",
+    "name": "KIDS Slim Jacket",
+    "description": "KIDS Slim Jacket made with quality materials.",
+    "price": 106,
+    "image": [
+      "https://picsum.photos/seed/5421170/400/500",
+      "https://picsum.photos/seed/2131171/400/500",
+      "https://picsum.photos/seed/5601172/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1744505667955
+  },
+  {
+    "_id": "seed_118",
+    "name": "WOMEN Comfy Sweatshirt",
+    "description": "WOMEN Comfy Sweatshirt made with quality materials.",
+    "price": 120,
+    "image": [
+      "https://picsum.photos/seed/11180/400/500",
+      "https://picsum.photos/seed/6841181/400/500"
+    ],
+    "category": "WOMEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1754441667955
+  },
+  {
+    "_id": "seed_119",
+    "name": "KIDS Classic Joggers",
+    "description": "KIDS Classic Joggers made with quality materials.",
+    "price": 65,
+    "image": [
+      "https://picsum.photos/seed/8051190/400/500",
+      "https://picsum.photos/seed/6271191/400/500",
+      "https://picsum.photos/seed/5311192/400/500"
+    ],
+    "category": "KIDS",
+    "subCategory": "BOTTOMWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1746924867955
+  },
+  {
+    "_id": "seed_120",
+    "name": "MEN Urban Jacket",
+    "description": "MEN Urban Jacket made with quality materials.",
+    "price": 108,
+    "image": [
+      "https://picsum.photos/seed/1681200/400/500",
+      "https://picsum.photos/seed/8281201/400/500",
+      "https://picsum.photos/seed/3091202/400/500",
+      "https://picsum.photos/seed/8891203/400/500"
+    ],
+    "category": "MEN",
+    "subCategory": "WINTERWEAR",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1752195267955
+  }
+]
